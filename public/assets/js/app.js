@@ -1,0 +1,1 @@
+function ಠ_ಠ757(){console.log("hola "+ಠ_ಠ756+", como estas?")}var ಠ_ಠ756="gaby";ಠ_ಠ757();

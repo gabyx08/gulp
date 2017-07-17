@@ -1,0 +1,17 @@
+.titulo{
+  &-blanco{
+    color: #fff;
+  }
+  &-azul{
+    color: #2a7cd1;
+  }
+}
+.boton{
+  &_grande{
+    width: 30px;
+    height: 10px;
+  }
+  &-naranja{
+    background: #e98318;
+  }
+}
